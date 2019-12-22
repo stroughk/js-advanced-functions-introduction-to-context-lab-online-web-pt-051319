@@ -37,4 +37,3 @@ let createTimeOutEvent = function(employee, dateStamp){
 
     return employee
 }
-
